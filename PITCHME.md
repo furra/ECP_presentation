@@ -25,9 +25,11 @@ I've been in Canada for 3 months and 3 weeks.
 ---
 @title[Favourite festival]
 
-<h4>Favourite festival: </h4>
+<h3>Favourite festival: </h3>
 
-Independence Day (not really though): September 18th-19th
+Independence Day (not really though): 
+
+September 18th-19th
 ---
 @title[Favourite festival]
 
@@ -44,13 +46,14 @@ Source: [radiopolar.com](http://radiopolar.com/noticia_109603.html)
 @title[Favourite festival]
 
 Anticuchos
+
 <img src="images/anticuchos.png" alt="" style="height: 300px;">
 
 Source: [blog.pasajebus.com](http://blog.pasajebus.com/aun-sin-planes-para-este-18-de-septiembre/) 
 ---
 @title[Favourite food]
 
-<h4>Favourite food:</h4>
+<h3>Favourite food:</h3>
 
 Pastel de Choclo (corn pie)
 
@@ -60,11 +63,11 @@ Source: [enmicocinahoy.cl](https://www.enmicocinahoy.cl/pastel-de-choclo-chilean
 ---
 @title[Favourite Artist]
 
-<h4>Favourite Artist:</h4>
+<h3>Favourite Artist:</h3>
 
 Gojira
 
-<img src="images/gojira.png" alt="" style="height: 500px;">
+<img src="images/gojira.png" alt="" style="height: 300px;">
 
 Source: [roadrunnerrecords.com](http://www.roadrunnerrecords.com/artists/gojira) 
 
@@ -78,14 +81,14 @@ Source: [youtube.com](https://www.youtube.com/watch?v=vrfr9t6FuTU)
 ---
 @title[Fun fact about myself]
 
-<h4>Something interesting about myself:</h4>
+<h3>Something interesting about myself:</h3>
 
 * I have 110% vision in my eyes
 * I was interviewed by a Chilean TV show and a newspaper once ([youtube.com](https://www.youtube.com/watch?v=u8wf1LlzorQ))
 ---
 @title[Fun fact about myself]
 
-<h4>Unfun facts about myself:</h4>
+<h3>Unfun facts about myself:</h3>
 
 * Lactose intolerant
 * I suffer from acute insomnia every month
