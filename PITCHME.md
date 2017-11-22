@@ -25,13 +25,14 @@ I've been in Canada for 3 months and 3 weeks.
 ---
 @title[Favourite festival]
 
-<h3>Favourite festival: </h3>
+<h4>Favourite festival: </h4>
 
 Independence Day (not really though): September 18th-19th
 ---
 @title[Favourite festival]
 
 <img src="images/fondas.jpg" alt="" style="height: 500px;">
+
 Source: [eltipografo.cl](http://eltipografo.cl/2017/09/los-mejores-panoramas-para-este-18-de-septiembre-en-la-region-de-ohiggins/) 
 ---
 @title[Favourite festival]
@@ -42,38 +43,49 @@ Source: [radiopolar.com](http://radiopolar.com/noticia_109603.html)
 ---
 @title[Favourite festival]
 
-<img src="images/anticuchos.png" alt="" style="height: 500px;">
+Anticuchos
+<img src="images/anticuchos.png" alt="" style="height: 300px;">
 
 Source: [blog.pasajebus.com](http://blog.pasajebus.com/aun-sin-planes-para-este-18-de-septiembre/) 
 ---
 @title[Favourite food]
 
-<h3>Pastel de Choclo (corn pie)</h3>
+<h4>Favourite food:</h4>
 
-<img src="images/pastel_choclo.jpg" alt="" style="height: 500px;">
+Pastel de Choclo (corn pie)
+
+<img src="images/pastel_choclo.jpg" alt="" style="height: 300px;">
+
 Source: [enmicocinahoy.cl](https://www.enmicocinahoy.cl/pastel-de-choclo-chilean-corn-pie/) 
 ---
 @title[Favourite Artist]
 
-<h3>Favourite Artist:</h3>
-<img src="images/gojira.jpg" alt="" style="height: 500px;">
+<h4>Favourite Artist:</h4>
+
+Gojira
+
+<img src="images/gojira.png" alt="" style="height: 500px;">
+
 Source: [roadrunnerrecords.com](http://www.roadrunnerrecords.com/artists/gojira) 
 
 ---
 @title[Favourite Artist]
 
 <img src="images/gojira_live.jpg" alt="" style="height: 500px;">
+
 Source: [youtube.com](https://www.youtube.com/watch?v=vrfr9t6FuTU) 
 
 ---
 @title[Fun fact about myself]
 
-<h1>Something interesting about myself:</h1>
+<h4>Something interesting about myself:</h4>
 
 * I have 110% vision in my eyes
-* I was interviewed by a Chilean TV show and a newspaper once ([youtube.com](https://www.youtube.com/watch?v=u8wf1LlzorQ) )
+* I was interviewed by a Chilean TV show and a newspaper once ([youtube.com](https://www.youtube.com/watch?v=u8wf1LlzorQ))
+---
+@title[Fun fact about myself]
 
-<h1>Unfun facts about myself:</h1>
+<h4>Unfun facts about myself:</h4>
 
 * Lactose intolerant
-* I have acute insomnia
+* I suffer from acute insomnia every month
